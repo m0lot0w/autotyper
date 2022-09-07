@@ -1,2 +1,0 @@
-# autotyper
-autotypertool 
